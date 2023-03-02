@@ -24,7 +24,7 @@ Anime2Sketch is a sketch extractor that works well on illustration, anime art, a
 
 ## Prerequisites
 - Linux, macOS, Docker
-- Python 3 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux))
+- Python 3.8 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux))
 - CPU or NVIDIA GPU + CUDA CuDNN
 - [Pillow](https://pillow.readthedocs.io/en/stable/), [PyTorch](https://pytorch.org/)
 
